@@ -1,3 +1,10 @@
+ipad + project idx + supabaseで作ってみたリポジトリ。
+
+使いにくさはあるものの、普通に開発できそう。
+はりつけができない。
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
